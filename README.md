@@ -13,7 +13,7 @@ SIMPLE CONTACT MANAGER
     e) View all contact
 
     
-## PRE=REQUISITES :
+## PRE-REQUISITES :
     Basics of C must be known as this application is completely done using C-language as our college project 
 
 ## INSTALLATION AND RUNNING THE CODE :
