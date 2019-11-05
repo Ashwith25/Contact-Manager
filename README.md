@@ -32,4 +32,4 @@ When contributing to this repository, please first discuss the change you wish t
 Feel free to ask any doubts in any part of the code or for the installation part.
 
 *contact me :
-email : pashwith25@gmail.com
+email : pashwith25@gmail.com*
