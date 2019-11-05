@@ -17,6 +17,8 @@ SIMPLE CONTACT MANAGER
 Basics of C must be known as this application is completely done using C-language as our college project 
 
 ## INSTALLATION AND RUNNING THE CODE :
+[Turbo-C](https://developerinsider.co/downloading/?download=https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true&after=https://developerinsider.co/c-and-cpp-insider/)
+
 1. This code was completely built on Turbo-C, so to run this code you must install the software into your system.
 2. Once done with installation, download the provided code and save it into the BIN folder under turboC 
 3. Path would be (C:\TURBOC3\BIN)
@@ -29,4 +31,5 @@ When contributing to this repository, please first discuss the change you wish t
 ## Doubts and Queries :
 Feel free to ask any doubts in any part of the code or for the installation part.
 
-[contact-me](https://mail.google.com/mail/u/0/#inbox?compose=sJwlqMnKvjJQKRjQlZTWQhqMRQmJLpVLFMtwVSZZkWWjHNzhnHvWxNvvvZTphsCLzsJHvhDWqzhcZvtWHrSFszhJLVhGSdVqrnHNFxTWHjcvgvzGssTsKGWqCjphjfZwsWFQXKLkrWXfsvVcjZvdGLMDvPPdbQtQq)
+*contact me :
+email : pashwith25@gmail.com
